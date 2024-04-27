@@ -4,6 +4,9 @@ Droidium aims to develop a realistic simulation of their mobile platform quickly
 ## Model Picture
 ![image](https://github.com/Sen66666666/Robot-vacuum-cleaner/blob/main/vacuum_cleaner_model.png)
 ## Model in rviz and Gazebo
+### In rviz 
 ![image](https://github.com/Sen66666666/Robot-vacuum-cleaner/blob/main/urdf_model.png)
-![image]()
+![image](https://github.com/Sen66666666/Robot-vacuum-cleaner/blob/main/Performance_of_lidar_and%20camera.png)
+Since the model is published /model/iodine/scan and /model/iodine/depth,it is able to detect its surroundings and allows it to 'see' obstacles
+### In Gazebo
 
