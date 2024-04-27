@@ -9,4 +9,5 @@ Droidium aims to develop a realistic simulation of their mobile platform quickly
 ![image](https://github.com/Sen66666666/Robot-vacuum-cleaner/blob/main/Performance_of_lidar_and%20camera.png)
 Since the model is published /model/iodine/scan and /model/iodine/depth,it is able to detect its surroundings and allows it to 'see' obstacles
 ### In Gazebo
+![image](https://github.com/Sen66666666/Robot-vacuum-cleaner/blob/main/Vacuum%20cleaner%20in%20gazebo.png)
 
