@@ -24,4 +24,5 @@ Since the model is published /model/iodine/scan and /model/iodine/depth,it is ab
 ![image](https://github.com/Sen66666666/Robot-vacuum-cleaner/blob/main/Vacuum%20cleaner%20in%20gazebo.png)
 
 ## Control
-You can use your keyboard to control the robot vacuum to explore its surroundings.
+You can use your keyboard to control the vacuum cleaning robot to explore its surroundings.
+[![Watch the video](https://img.youtube.com/vi/GLNqCRScQQM/0.jpg)](https://www.youtube.com/watch?v=GLNqCRScQQM)
